@@ -233,7 +233,7 @@ body {
 
 /* メニューアイテムコンポーネント */
 .menu_list {
-  display: flex;
+  display: grid;
   justify-content: space-between;
   flex-wrap: wrap;
 }
